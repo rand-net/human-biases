@@ -111,7 +111,7 @@ Concentrating on the people or things that "survived" some process and inadverte
 
 Underestimation of the duration taken to traverse oft-travelled routes and overestimation of the duration taken to traverse less familiar routes.
 
-## None
+## Uncategorized
 ### Attribute substitution
 
 Occurs when a judgment has to be made (of a target attribute) that is computationally complex, and instead a more easily calculated heuristic attribute is substituted. This substitution is thought of as taking place in the automatic intuitive judgment system, rather than the more self-aware reflective system.
@@ -604,7 +604,7 @@ The tendency for people to view themselves as relatively variable in terms of pe
 
 A hypothesized tendency to believe that mass communicated media messages have a greater effect on others than on themselves. As of 2020, the third-person effect has yet to be reliably demonstrated in a scientific context.
 
-## None
+## Uncategorized
 ### Group attribution error
 
 The biased belief that the characteristics of an individual group member are reflective of the group as a whole or the tendency to assume that group decision outcomes reflect the preferences of group members, even when information is available that clearly suggests otherwise.
