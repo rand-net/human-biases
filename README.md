@@ -1,4 +1,4 @@
-List of All Cognitive Biases - CSV
+List of All Human Cognitive Biases - CSV
 ==========================================
 
 Working fork of [biases2csv](https://github.com/ErikBjare/biases2csv)
